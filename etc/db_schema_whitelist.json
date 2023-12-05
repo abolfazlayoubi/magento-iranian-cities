@@ -1,10 +1,14 @@
 {
     "directory_country": {
         "column": {
-            "name": true
+            "name": true,
+            "en_US": true,
+            "fa_IR": true
         },
         "index": {
-            "DIRECTORY_COUNTRY_NAME": true
+            "DIRECTORY_COUNTRY_NAME": true,
+            "DIRECTORY_COUNTRY_EN_US": true,
+            "DIRECTORY_COUNTRY_FA_IR": true
         }
     }
 }

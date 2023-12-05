@@ -3,10 +3,13 @@
 <schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
     <table name="directory_country" resource="default">
-        <column xsi:type="varchar" name="name" length="255" nullable="true"/>
-
-        <index referenceId="directory_country_name_index" indexType="btree">
-            <column name="name"/>
+        <column xsi:type="varchar" name="en_US" length="255" nullable="true"/>
+        <column xsi:type="varchar" name="fa_IR" length="255" nullable="true"/>
+        <index referenceId="directory_country_en_US_index" indexType="btree">
+            <column name="en_US"/>
+        </index>
+        <index referenceId="directory_country_fa_IR_index" indexType="btree">
+            <column name="fa_IR"/>
         </index>
     </table>
 </schema>
