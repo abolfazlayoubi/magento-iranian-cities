@@ -1,0 +1,1112 @@
+code,translate
+YZD-1, Kushk
+YZD-2, Yazd
+YZD-3, Herat
+YZD-4, Nir
+YZD-5, Nasrabad
+YZD-6, Nadooshan
+YZD-7, Meybod
+YZD-8, Mehriz
+YZD-9, Mehrdasht
+YZD-10, Marvost
+YZD-11, Marvost
+YZD-12, Mobarakeh
+YZD-13, Fahraj
+YZD-14, Faragheh
+YZD-15, Fathabad
+YZD-16, Aliabad
+YZD-17, Aqda
+YZD-18, Shahdiyeh
+YZD-19, Zarin
+YZD-20, Zarch
+YZD-21, Dehshir
+YZD-22, Khodarabad
+YZD-23, Hamidia
+YZD-24, Chenar
+YZD-25, Taft
+YZD-26, Bahadoran
+YZD-27, Bahabad
+YZD-28, Bonestan
+YZD-29, Bafrouiye
+YZD-30, Bafrouiye
+YZD-31, Bafgh
+YZD-32, Anarstan
+YZD-33, Ashkezar
+YZD-34, Ashkezar
+YZD-35, Ashkezar
+YZD-36, Asfij
+YZD-37, Esfandabad
+YZD-38, Arnan
+YZD-39, Ardakan
+YZD-40, Ahmadabad
+YZD-41, Abarqu
+GOL-1, Gorg
+ALB-1, Mashkin Dasht
+ALB-2, Tankaman
+ALB-3, Chahar Bagh
+ALB-4, Kuhsar
+ALB-5, Shahr-e Jadid-e Eshtehard
+ALB-6, Golsar
+ALB-7, Asara
+ALB-8, Garmdareh
+ALB-9, Mohammadshahr
+ALB-10, Kamal Shahr
+ALB-11, Mahdasht
+AZG-1, Morgnlar
+AZG-2, Nazok Olya
+AZG-3, Avajeq
+AZG-4, Gare Ziya' al-Din
+AZG-5, Kashavarz
+AZG-6, Mahmudabad
+AZG-7, Nalus
+AZG-8, Simehneh
+AZG-9, Mohammadiar
+AZG-10, Gug Tappeh
+AZG-11, Khalifan
+AZG-12, Baroq
+AZG-13, Chahar Borj
+AZG-14, Bazarqan
+AZG-15, Tazeh Shahr
+AZG-16, Mirabad
+AZG-17, Rabat
+AZG-18, Qatour
+AZG-19, Ayvaoqli
+AZG-20, Zarabad
+AZG-21, Dizajdiz
+AZG-22, Firoorq
+AZG-23, Gerd Keshaneh
+AZG-24, Nushin
+AZG-25, Sarv
+AZG-26, Silvaneh
+AZG-27, Qushchi
+HOR-1, Ziarat Ali
+HOR-2, Lirdaf
+HAM-1, Karafs
+HAM-2, Mahajeran
+HAM-3, Malayeran
+HAM-4, Maryanaj
+HAM-5, Laljin
+HAM-6, Giyan
+HAM-7, Gol Tapeh
+HAM-8, Kabudar Ahang
+HAM-9, Qahavand
+HAM-10, Qorveh dar Jazin
+HAM-11, Firuzan
+HAM-12, Farsfaj
+HAM-13, Famenin
+HAM-14, Salehabad
+HAM-15, Shirin Su
+HAM-16, Sarkan
+HAM-17, Saman
+HAM-18, Zanjan
+HAM-19, Demq
+HAM-20, Jokar
+HAM-21, Jorqan
+HAM-22, Barzul
+HAM-23, Azandarian
+HAM-24, Ajin
+HOR-3, Hashtbandi
+HOR-4, Lemazan
+HOR-5, Gowharan
+HOR-6, Gorook
+HOR-7, Kohestak
+HOR-8, Kookherdehrang
+HOR-9, Kang
+HOR-10, Kooshkanar
+HOR-11, Qaleh Qazi
+HOR-12, Fin
+HOR-13, Faraqan
+HOR-14, Sirik
+HOR-15, Sowza
+HOR-16, Sendarak
+HOR-17, Sargaz
+HOR-18, Ziarat Ali
+HOR-19, Ruydar
+HOR-20, Dashti
+HOR-21, Darghan
+HOR-22, Khomir
+HOR-23, Chark
+HOR-24, Janaq
+HOR-25, Tiroor
+HOR-26, Takh
+HOR-27, Tazian Payin
+HOR-28, Bika
+HOR-29, Bandar Jask
+MAZ-1, Hechirud
+MAZ-2, Hadi Shahr
+MAZ-3, Neka
+MAZ-4, Marzikola
+MAZ-5, Gelugah
+MAZ-6, Kiyakla
+MAZ-7, Kuhikhil
+MAZ-8, Kojur
+MAZ-9, Katalom va Sadat Shahr
+MAZ-10, Faram
+MAZ-11, Abbas Abad
+MAZ-12, Shiregah
+MAZ-13, Sarkhurud
+MAZ-14, Sarakhs
+MAZ-15, Zirab
+MAZ-16, Zargar Mahalleh
+MAZ-17, Ruyan
+MAZ-18, Rostamkola
+MAZ-19, Dabudshat
+MAZ-20, Khush Roodpi
+MAZ-21, Khalil Shahr
+MAZ-22, Khormabad
+MAZ-23, Pool
+MAZ-24, Bahnemir
+LOR-1, Haft Cheshmeh
+LOR-2, Vaysian
+LOR-3, Momenabad
+LOR-4, Ma'moulan
+LOR-5, Gorab
+LOR-6, Kuhnavard
+LOR-7, Firoozabad
+LOR-8, Shool Abad
+LOR-9, Zahgeh
+LOR-10, Darb Gonbad
+LOR-11, Choqab
+LOR-12, Chalan Chulan
+LOR-13, Poldokhtar
+LOR-14, Beyran Shahar
+LOR-15, Ashtarinan
+GIL-1, Heshtpar
+GIL-2, Vajargah
+GIL-3, Maraqal
+GIL-4, Maqulan
+GIL-5, Lisar
+GIL-6, Lavandvil
+GIL-7, Luluman
+GIL-8, Lesht Nasha
+GIL-9, Kuch Safla
+GIL-10, Shalman
+GIL-11, Sangar
+GIL-12, Rankuh
+GIL-13, Dilman
+GIL-14, Hawiq
+GIL-15, Chubur
+GIL-16, Chaf o Chama Khaleh
+GIL-17, Jirande
+GIL-18, Tutkabon
+GIL-19, Pareh Sar
+GIL-20, Bares Jam'e
+GIL-21, Ataghvar
+GIL-22, Asalem
+GIL-23, Ahmad Sargurab
+GOL-2, Nokandeh
+GOL-3, Nodeh Khanduz
+GOL-4, Negin Shahr
+GOL-5, Mazraeh
+GOL-6, Faraghi
+GOL-7, Fazlabad
+GOL-8, Sangdouin
+GOL-9, Sarakhanlateh
+GOL-10, Deland
+GOL-11, Khanbabin
+GOL-12, Tatara Aliya
+GOL-13, Incheh Borun
+GOL-14, Anbar Alam
+KOH-1, Sarfariyab
+KES-1, Helseh
+KES-2, Nosud
+KES-3, Nodsheh
+KES-4, Mian Rahaneh
+KES-5, Gohvareh
+KES-6, Goudin
+KES-7, Kuzran
+KES-8, Karand West
+KES-9, Shahu
+KES-10, line
+KES-11, Sarmast
+KES-12, Rajab
+KES-13, Rvansar
+KES-14, Rabat
+KES-15, pregnant
+KES-16, Taze Abad
+KES-17, Biston
+KES-18, Baingan
+KES-19, Banureh
+KES-20, from the herd
+KER-1, Yazdan city
+KER-2, Hanza
+KER-3, Hamasher
+KER-4, Hajdak
+KER-5, nudge
+KER-6, Nagar
+KER-7, city system
+KER-8, Narmashir
+KER-9, Najaf city
+KER-10, Manojan
+KER-11, copper source
+KER-12, Mardhak
+KER-13, Mohi Abad
+KER-14, Mohammad Abad
+KER-15, Mahan
+KER-16, Lalezar
+KER-17, Gunbaki
+KER-18, Golzar
+KER-19, Golbaf
+KER-20, Kianshahr
+KER-21, Kohbanan
+KER-22, Kashkoye
+KER-23, Kazhamabad
+KER-24, Qalaganj
+KER-25, Fahraj
+KER-26, Faryab
+KER-27, Anbar Abad
+KER-28, Safaiyeh
+KER-29, Shahdad
+KER-30, Zaid Abad
+KER-31, Zekhlot
+KER-32, Zangi Abad
+KER-33, Basil
+KER-34, Rudbar
+KER-35, Rhine
+KER-36, Rober
+KER-37, Dehj
+KER-38, Dusari
+KER-39, farmer
+KER-40, Heaven's Gate
+KER-41, Khorsand
+KER-42, Khajushahr
+KER-43, Khanuk
+KER-44, Khatun Abad
+KER-45, Chetrod
+KER-46, Jozem
+KER-47, Jopar
+KER-48, Jabalbarz
+KER-49, Paris
+KER-50, Behrman
+KER-51, Block
+KER-52, Bloord
+KER-53, Banjan
+KER-54,Broat
+KER-55, Baghin
+KER-56, Andohjard
+KER-57, pomegranate
+KER-58, Amin Shahr
+KER-59, desire
+KER-60, Akhtyar Abad
+KOR-1, Yasukand
+KOR-2, sprain
+KOR-3, Kani Sur
+KOR-4, Dinar ore
+KOR-5, owner
+KOR-6, sink
+KOR-7, Sirishabad
+KOR-8, Serovabad
+KOR-9, gold
+KOR-10, Dehglan
+KOR-11, Dezj
+KOR-12, Sycamore
+KOR-13, Aghaaj cannon
+KOR-14, Pirtaj
+KOR-15, Lower Boin
+KOR-16, Belban Abad
+KOR-17, Reshe's slave
+KOR-18, Babarshani
+KOR-19, armored
+QOM-1, Jaafarieh
+QAZ-1, Nerja
+QAZ-2, Mohammadia
+QAZ-3, Kohin
+QAZ-4, Zia Abad
+QAZ-5, Sharifia
+QAZ-6, Shawl
+QAZ-7, Sirdan
+QAZ-8, Segsabad
+QAZ-9, Razmian
+QAZ-10, Dansfahan
+QAZ-11, Khorramdasht
+QAZ-12, Khakali
+QAZ-13, Bidistan
+QAZ-14, Alvand
+QAZ-15, Iqbaliya
+QAZ-16, Spherorin
+QAZ-17, Ardagh
+QAZ-18, Auj
+FAR-1, Hamasher
+FAR-2, Veravi
+FAR-3, Nodan
+FAR-4, Nujin
+FAR-5, newbies
+FAR-6
+FAR-7, Mianshahr
+FAR-8, Mehr
+FAR-9, destination
+FAR-10, advantages
+FAR-11, Mubarakabad
+FAR-12, Mother Suleiman
+FAR-13, subtle
+FAR-14, Lepoi
+FAR-15, Shepherd
+FAR-16, Grush
+FAR-17, Kuhanjan
+FAR-18, coupon
+FAR-19, Quar
+FAR-20, next to the board
+FAR-21, Korean
+FAR-22, Kamfiroz
+FAR-23, Karzin
+FAR-24, bitumen
+FAR-25, Qatar
+FAR-26, Qutbabad
+FAR-27, Qara Balag
+FAR-28, General
+FAR-29, Qadrabad
+FAR-30, Fedami
+FAR-31, Emad Deh
+FAR-32, Alamrodasht
+FAR-33, Safa Shahr
+FAR-34, Sogad
+FAR-35, Sadra New City
+FAR-36, Shahr Pir
+FAR-37, revised
+FAR-38, Sedan
+FAR-39, Surmaq
+FAR-40, Sultan Shahr
+FAR-41, Sarostan
+FAR-42, century
+FAR-43, Zargan
+FAR-44, Zahid Shahr
+FAR-45, Roniz
+FAR-46, Ramjard
+FAR-47, 10th
+FAR-48, dose
+FAR-49, double tower
+FAR-50, teachers
+FAR-51, Darian
+FAR-52, Khomezar
+FAR-53, Khozi
+FAR-54, Khor
+FAR-55, Kharameh
+FAR-56, East
+FAR-57, ladies
+FAR-58, women's house
+FAR-59, Hasanabad
+FAR-60, Hasami
+FAR-61, Joym
+FAR-62, Janat Shahr
+FAR-63, oval
+FAR-64, Berm
+FAR-65, Bahman
+FAR-66, Benaroyeh
+FAR-67, above
+FAR-68, Baba Manir
+FAR-69, Bob Anar
+FAR-70, Edge
+FAR-71, Ahl
+FAR-72, Oz
+FAR-73, Imam Shahr
+FAR-74, Afzer
+FAR-75, Ashkenan
+FAR-76, captive
+FAR-77, Abadeh Tashk
+SIS-1, Hidoch
+SIS-2, Nookabad
+SIS-3, see
+SIS-4, Nusrat Abad
+SIS-5, Mohammadi
+SIS-6, Mohammadan
+SIS-7, Mohammad Abad
+SIS-8, Golmoreti
+SIS-9, Patrol
+SIS-10, Sugar Palace
+SIS-11, Ali Akbar
+SIS-12, Zircon
+SIS-13, Soran
+SIS-14, drainage
+SIS-15, Zarabad
+SIS-16, Dost Mohammad
+SIS-17, Chabahar
+SIS-18, interesting
+SIS-19, previous
+SIS-20, Banjar
+SIS-21, Bennett
+SIS-22, Bampur
+SIS-23, time
+SIS-24, Speke
+SIS-25, Edimi
+SEM-1, Majen
+SEM-2, Kohnabad
+SEM-3, Kelate Khaij
+SEM-4, chelate
+SEM-5, Rodian
+SEM-6, introduction
+SEM-7, Darjezin
+SEM-8, Biarjmand
+SEM-9, Amiriyah
+SEM-10, Aradan
+ZAN-1, Hedge
+ZAN-2, Nick P
+ZAN-3, Nurbahar
+ZAN-4, Kersov
+ZAN-5, Sain Qala
+ZAN-6, Sejas
+ZAN-7, Dandy
+ZAN-8, Aleppo
+ZAN-9, Churzag
+ZAN-10, Aramkhankhane
+KHO-1, Haftgol
+KHO-2, Wis
+KHO-3, Minooshahr
+KHO-4, runs
+KHO-5, Mianrud
+KHO-6, Mansouriyeh
+KHO-7, Malathani
+KHO-8, resistance
+KHO-9, Mishrageh
+KHO-10, Guria
+KHO-11, fender
+KHO-12, Kot Abdullah
+KHO-13, Kot Seyed Naim
+KHO-14, Khajah Castle
+KHO-15, Tel Castle
+KHO-16, Fatah El Mobin
+KHO-17, Sidon
+KHO-18, Safi Abad
+KHO-19, Saleh Shahr
+KHO-20, Sheban
+KHO-21, Imam city
+KHO-22, Shamsabad
+KHO-23, honor
+KHO-24, shower
+KHO-25, Black Mansour
+KHO-26, Sosangerd
+KHO-27, Samala
+KHO-28, Sardaran
+KHO-29, Saland
+KHO-30, Venus
+KHO-31, Rafi
+KHO-32, Heads
+KHO-33, Darkhvin
+KHO-34, Khanafre
+KHO-35, Hamidiyeh
+KHO-36, Hamza
+KHO-37, Hosseini
+KHO-38, Har
+KHO-39, Choebdeh
+KHO-40, Chamran
+KHO-41, Cham Glock
+KHO-42, Chaghamish
+KHO-43, Paradise place
+KHO-44, awards
+KHO-45, Tsan
+KHO-46, Terkalki
+KHO-47, Bidroba
+KHO-48, Elahi
+KHO-49, Alvan
+KHO-50, Arvand Kanar
+KHO-51, Abu Hamizah
+KHO-52, Aghajari
+KHO-53, Azadi
+KHO-54, Abzhedan
+KHS-1, Qoshkhane
+KHS-2, judge
+KHS-3, Safi Abad
+KHS-4, Shokhan
+KHS-5, application
+KHS-6, Pilgrimage
+KHS-7, Raz
+KHS-8, compr
+KHS-9, Hesar Garm Khan
+KHS-10, Chenaran Shahr
+KHS-11, Titkanlo
+KHS-12, before the castle
+KHS-13, Ivor
+KHS-14, Ava
+KHR-1, Yunsi
+KHR-2, Hematabad
+KHR-3, Nile Shahr
+KHR-4, Nukhandan
+KHR-5, Nashtifan
+KHR-6, Malikabad
+KHR-7, Mashhadrizah
+KHR-8, Mazadavand
+KHR-9, Latafabad
+KHR-10, Golmakan
+KHR-11, Kandar
+KHR-12, Codec
+KHR-13, Kariz
+KHR-14, Kakhk
+KHR-15, Qalandar Abad
+KHR-16, Qasimabad
+KHR-17, Faizabad
+KHR-18, turquoise
+KHR-19, Farhad Gard
+KHR-20, Ashgabat
+KHR-21, Salehabad
+KHR-22, Shahrabad
+KHR-23, Zo city
+KHR-24, Hashtmad
+KHR-25, Shadmehr
+KHR-26, Sangan
+KHR-27, Sultanabad
+KHR-28, Hello
+KHR-29, stone white
+KHR-30, Ryush
+KHR-31, Rudab
+KHR-32, Razaviya
+KHR-33, Rabat Sang
+KHR-34, Daulatabad
+KHR-35, hello
+KHR-36, referee
+KHR-37, Khro
+KHR-38, Chechen
+KHR-39, Chapshelo
+KHR-40, forest
+KHR-41, Bidakh
+KHR-42, bike
+KHR-43, bar
+KHR-44, Bakhrez
+KHR-45, Anabod
+KHR-46, Ahmedabad Solt
+KHJ-1, Nimblok
+KHJ-2, mod
+KHJ-3, Mohammadshahr
+KHJ-4, Gezik
+KHJ-5, Ashgabat
+KHJ-6, Tabas Messina
+KHJ-7, Tabas
+KHJ-8, Shusuf
+KHJ-9, three castles
+KHJ-10, Sarbisheh
+KHJ-11, Zahan
+KHJ-12, Dihok
+KHJ-13, Khosuf
+KHJ-14, Khazri Dasht Beyaz
+KHJ-15, Haji Abad
+KHJ-16, Islamia
+KHJ-17, Esfaden
+KHJ-18, Asdia
+KHJ-19, Ersk
+KHJ-20, Isk
+KHJ-21, Arian Shahr
+CHA-1, Haruni
+CHA-2, Vardanjan
+CHA-3, a trick
+CHA-4, Nafch
+CHA-5, Naghan
+CHA-6, Manj
+CHA-7, Mal Khalifa
+CHA-8, Gharo
+CHA-9, Gojan
+CHA-10, Gandman
+CHA-11, Kyan
+CHA-12, pine
+CHA-13, Fardanbeh
+CHA-14, Taganq
+CHA-15, Samsami
+CHA-16, Shalamzar
+CHA-17, Sureshjan
+CHA-18, Sudjan
+CHA-19, Safid Dasht
+CHA-20, Sarkhon
+CHA-21, Dashtak
+CHA-22, handgun
+CHA-23, Chiliche
+CHA-24, Chalgard
+CHA-25, Junqan
+CHA-26, Pardanjan
+CHA-27, Ben
+CHA-28, Beldaji
+CHA-29, return
+CHA-30, Babahidar
+CHA-31, Aloni
+TEH-1, Vahidiya
+TEH-2, Nasirshahr
+TEH-3, Nasim Shahr
+TEH-4, Kilan
+TEH-5, Quds
+TEH-6, Farun Abad
+TEH-7, Ferdowsia
+TEH-8, Safadasht
+TEH-9, Saba Shahr
+TEH-10, Salihia
+TEH-11, Shahriar
+TEH-12, new city of Parand
+TEH-13, Shamshak
+TEH-14, Shahedshahr
+TEH-15, Hasanabad
+TEH-16, Javad Abad
+TEH-17, Baghershahr
+TEH-18, Baghstan
+TEH-19, thought
+TEH-20, dear
+BOO-1, Unity
+BOO-2, Nakhel Taghi
+BOO-3, the word
+BOO-4, khaki
+BOO-5, Saturday
+BOO-6, Shabankare
+BOO-7, Siraf
+BOO-8, Saad Abad
+BOO-9, fine
+BOO-10, Darahk
+BOO-11, Delwar
+BOO-12, Dalkey
+BOO-13, Khormouj
+BOO-14, Khark
+BOO-15, Chagadak
+BOO-16, Tang Erm
+BOO-17, Bushkan
+BOO-18, Bank
+BOO-19, Dir port
+BOO-20, Bardestan
+BOO-21, Bardkhon
+BOO-22, Badoleh
+BOO-23, Pomegranate
+BOO-24, Imam Hassan
+BOO-25, Abdan
+BOO-26, Abad
+ILA-1, Badreh
+ALB-12, Ferdis
+ESF-2, Golpayegan
+ESF-3, Gaz Barkhor
+ESF-4, Sade Lanjan
+ESF-5, Boyne thought
+ARD-1, Hir
+ARD-2, Hashtjin
+ARD-3, Meshgin Shahr
+ARD-4, Moradlo
+ARD-5, Lahrud
+ARD-6, Koraim
+ARD-7, chlorine
+ARD-8, butcher shop
+ARD-9, Fakhrabad
+ARD-10, Anbaran
+ARD-11, Razi
+ARD-12, Jaafar Abad
+ARD-13, the latest ingot
+ARD-14, fresh
+ARD-15, Islandoz
+ARD-16, Islamabad
+ARD-17, Bigelow blue
+AZG-28, shot
+AZG-29, Poldasht
+HOR-30, Bastak
+KOR-20, Marivan
+KOR-21, Kamiyaran
+KOR-22, Korove
+KOR-23, turpentine
+KOR-24, Diwandre
+KOR-25, Delbaran
+KOR-26, Bijar
+KOR-27, Baneh
+KOR-28, Uramantakht
+MAR-29, localities
+MAR-30, Mamounia-Zarandia
+MAR-31, Kamijan
+MAR-32, Shazand
+MAR-33, Dilijan
+MAR-34, Khandab
+MAR-35, Khomin
+MAR-36, Tafarsh
+MAR-37, Ashtian
+ILA-2, Mehran
+ILA-3, Sarableh - Shirvan and Cherdavel
+ILA-4, Dehlaran
+ILA-5, Dareh Shahr
+ILA-6, Ivan
+ILA-7, Abdanan
+KES-21, Hersin
+KES-22, Gilangarb
+KES-23, Kangaroo
+KES-24, Qasrshirin
+KES-25, scene
+KES-26, Somar
+KES-27, Sangar
+KES-28, Sarpol Zahab
+KES-29, Javanrud
+KES-30, Paveh
+KES-31, Islamabad West
+HAM-25, Nahavand
+HAM-26, resin
+HAM-27, Tuiserkan
+HAM-28, spring
+HAM-29, Asadabad
+BOO-27, Jam
+BOO-28, great city
+BOO-29, Bandar Gnaveh
+BOO-30, Bandarkangan
+BOO-31, Bandarrig
+BOO-32, Bandardilam
+BOO-33, Barazjan - Dashtestan
+BOO-34, Ahram - Tungsten
+BOO-35, sprinkler
+HOR-31, Hormuz
+HOR-32, Minab
+HOR-33, Sardasht-Bashagard
+HOR-34, Dehbarz-Rodan
+HOR-35, Haji Abad
+HOR-36, Persians
+HOR-37, Bandarlange
+HOR-38, Bandar Abbas
+HOR-39, Abu Musi
+KOH-2, Yasouj
+KOH-3, Margon
+KOH-4, Madwan
+KOH-5, Liq
+KOH-6, land
+KOH-7, lower grub
+KOH-8, Raisi Castle
+KOH-9, very hard
+KOH-10, Souk
+KOH-11, Dishmuk
+KOH-12, Dogonbadan-Gachsaran
+KOH-13, Chitab
+KOH-14, leather
+KOH-15
+FAR-78, Bowanat
+FAR-79, Dezhkord
+FAR-80, Arsanjan
+FAR-81, Saadat Shahr - Pasargad
+FAR-82, clay
+FAR-83, restrictions
+FAR-84, fine reed
+FAR-85, Darab
+FAR-86, Firozabad
+FAR-87, FASA
+FAR-88, Ashthaban
+FAR-89, Lar-Larestan
+FAR-90, Abadeh
+FAR-91, Euclid
+FAR-92, Marvdasht
+FAR-93, Ardakan-Sepidan
+FAR-94, Jahrom
+FAR-95, Kazerun
+FAR-96, Meshkan
+FAR-97,Ajiabad - Zarin Dasht
+FAR-98, bedspread
+FAR-99, bitumen and carzin
+FAR-100, Sahararoud
+FAR-101, Khanj
+FAR-102, Lamard
+FAR-103, request
+FAR-104, Bowanat (Syrian)
+FAR-105, Noorabad - Memsani
+LOR-16, Sepidasht
+LOR-17, mirage period
+LOR-18, Borujerd
+LOR-19, Alshtar-Silesh
+LOR-20, Hello
+LOR-21, Azna
+LOR-22, oligoders
+LOR-23, Kohdasht
+LOR-24, Nurabad - Delfan
+KHO-55, Lali
+KHO-56, get them
+KHO-57, Bostan
+KHO-58, Hoyze
+KHO-59, Chanaristan
+KHO-60, Bagh Malik
+KHO-61, Ramshir
+KHO-62, Hope
+KHO-63, Sardasht
+KHO-64, Behbahan
+KHO-65, Handijan
+KHO-66, Bandramam Khomeini
+KHO-67, Suleiman Mosque
+KHO-68, Andimeshk
+KHO-69, Sush
+KHO-70, Shushtar
+KHO-71, Shadagan
+KHO-72, Izeh
+KHO-73, Ramhormoz
+KHS-15, Faruj
+KHS-16, Warm
+KHS-17, Lojli
+KHS-18, Ashkhaneh - Mane and Salamqan
+KHS-19, Esfrain
+KHS-20, Jajarm
+KHS-21, Shirvan
+KHJ-22, Khestan
+KHJ-23, Sarayan
+KHJ-24, Birjand
+KHJ-25, Beshroi
+KHJ-26, Ferdows
+KHJ-27, Qain - Qainat
+KHJ-28, Nehbandan
+SIS-26, Lutek
+SIS-27, Fanoj
+SIS-28, Rusk
+SIS-29, Nik Shahr
+SIS-30, Kanark
+SIS-31, Iranshahr
+SIS-32, Saravan
+SIS-33, soldier
+SIS-34, Khash
+SIS-35, Zabul
+SIS-36, Mirjaveh
+KHR-47, Bejastan
+KHR-48, Mashhad Thaman
+KHR-49, Bajgiran
+KHR-50, Sabzvar
+KHR-51, Torbat Heydarieh
+KHR-52, Nishapur
+KHR-53, Gonabad
+KHR-54, scanner
+KHR-55, Kashmir
+KHR-56, Joghtai
+KHR-57, Taybad
+KHR-58, Torbet Jam
+KHR-59, sleeping
+KHR-60, Rashtkhawar
+KHR-61, Dergez
+KHR-62, Qochan
+KHR-63, Freeman
+KHR-64, fern
+KHR-65, chelate
+KHR-66, Chanaran
+KHR-67, Targaba - Binaloud
+KHR-68, Khalilabad
+KHR-69, Naqab-Join
+KHR-70, Nasrabad
+KHR-71, Shandiz
+KHR-72, Khadgam
+ARD-18, Parsabad
+ARD-19, shovel rider
+ARD-20, Givi-Kotsar
+ARD-21, Nair
+ARD-22, Sareen
+ARD-23, Khalkhal
+ARD-24, Nemin
+ARD-25, heat
+AZG-30, cash
+AZG-31, Mahabad
+AZG-32, Khoi
+AZG-33, Takab
+AZG-34, Shahin Dej
+AZG-35, Miandoab
+AZG-36, Sardasht
+AZG-37, Buchan
+AZG-38, Selmas
+AZG-39, Sieh Cheshme - Chaldaran
+AZG-40, Mako
+AZG-41, Piranshahr
+AZG-42, Ashnoye
+AZS-45, Heshtrod
+AZS-46, Varzghan
+AZS-47, Bonab
+AZS-48, Bostan Abad
+AZS-49, mirage
+AZS-50, Caliber
+AZS-51, Ahr
+AZS-52, Jolfa
+AZS-53, Harris
+AZS-54, Shabster
+AZS-55, Azarshahr
+AZS-56, Esco
+AZS-57, Marand
+AZS-58, middle
+CHA-32, Sardasht
+CHA-33, Lords
+CHA-34, Erdel
+CHA-35, Farsan
+CHA-36, Saman
+CHA-37, Hefshjan
+CHA-38, Farrokh Shahr
+YZD-42, Taft
+YZD-43, Mehriz
+YZD-44, Bafaq
+YZD-45, gives
+YZD-46, Ardakan
+YZD-47, Tabas
+YZD-48, Abarkoh
+KER-61, Darijan
+KER-62, Khanuj
+KER-63, Jiroft
+KER-64, texture
+KER-65, Berdsir
+KER-66, Zarand
+KER-67, Shahrbabak
+KER-68, Bomb
+KER-69, rover
+ESF-6, Fereydon Shahr
+ESF-7, Chadgan
+ESF-8, Zarin Shahr - Lanjan
+ESF-9, Flowerjan
+ESF-10, Nain
+ESF-11, Ardestan
+ESF-12, Khor
+ESF-13, Kashan
+ESF-14, Shahreza
+ESF-15, Khomeini Shahr
+ESF-16, Khansar
+ESF-17, Natanz
+ESF-18, Aran and Bidgol
+ESF-19, Samir
+ESF-20, Daghan
+QAZ-19, Spa
+QAZ-20, Mahmoud Abad sample
+QAZ-21, vineyard
+QAZ-22, Buin Zahra
+QAZ-23, Abic
+ALB-13, Taleghan
+ALB-14, Ashthard
+ALB-15, Hashtgerd-Saujblag
+ALB-16, Nazarabad
+ALB-17, Karaj
+QOM-2, Selfchagan
+QOM-3, Comet
+QOM-4, unmarried
+QOM-5, Kanawat
+ZAN-11, Sehrvard
+ZAN-12, Qaidar
+ZAN-13, Khurmadreh
+ZAN-14, Sultaniyeh
+ZAN-15, Mahenshan
+ZAN-16, Zarin Rood
+ZAN-17, Ab Bar-Taram
+ZAN-18, Zarin Abad - Ijrud
+ZAN-19, Garmab
+SEM-11, Damghan
+SEM-12, Bastam
+SEM-13, Miami
+SEM-14, Ivanki
+SEM-15, Garmsar
+SEM-16, Shahmirzad
+SEM-17, Mehdi Shahr
+SEM-18, red
+TEH-21, Qarchak
+TEH-22, Golestan
+TEH-23, campus
+TEH-24, Sarbandan
+TEH-25, cold
+TEH-26, Abali
+TEH-27, Gilavand
+TEH-28, River
+TEH-29, Sharifabad
+TEH-30, Pakdasht
+TEH-31, Mallard
+TEH-32, Fashm
+TEH-33, Migon
+TEH-34, Oshan
+TEH-35, quadruple
+TEH-36, Islam Shahr
+TEH-37, Ahmedabad Mostofi
+TEH-38, then the castle
+TEH-39, Qayam Dasht
+TEH-40, Imam Khomeini Airport
+TEH-41, Kahrizak
+TEH-42, thank you
+TEH-43, Khorramdasht
+TEH-44, Baumehn
+TEH-45, Jajrud
+TEH-46, Firuzkoh
+TEH-47, Damavand
+TEH-48, Rabat Karim
+TEH-49, Peshwa
+TEH-50, Varamin
+TEH-51, Lavasan
+GOL-15, Jalin
+GOL-16, Galicia
+GOL-17, Gemish Tepe
+GOL-18, Simin Shahr
+GOL-19, Ramian
+GOL-20, Marave Tepe
+GOL-21, Stigma
+GOL-22, Minodasht
+GOL-23, Gombedkaus
+GOL-24, Azadshahr
+GOL-25, Aliabad
+GOL-26, Agh Qala
+GOL-27, Turkmen port
+GOL-28, Kurdkoy
+GOL-29, Bandar Gaz
+MAZ-26, Behshahr
+MAZ-27, Nika
+MAZ-28, Kyasar
+MAZ-29, Pol Sefid - Swadkoh
+MAZ-30, next to Fereydon
+MAZ-31, Ramsar
+MAZ-32, Salmanshahr
+MAZ-33, Chalos
+MAZ-34, light
+MAZ-35, Mahmoudabad
+MAZ-36, Surrey
+MAZ-37, Rudbar pair
+MAZ-38, Javaherdeh
+MAZ-39, Nashtarud
+MAZ-40, Kalarabad
+MAZ-41, Black
+MAZ-42, Kalardasht
+MAZ-43, Marzan Abad
+MAZ-44, Belde
+MAZ-45, Chamestan
+GIL-25, Amlesh
+GIL-26, Rahimabad
+GIL-27, agile
+GIL-28, Komle
+GIL-29, Rostamabad
+GIL-30, Lushan
+GIL-31, Kiashahr
+GIL-32, Rizvan Shahr
+GIL-33, Masoleh
+GIL-34, shaft
+GIL-35, Dry Bijar
+GIL-36, Kalachai
+GIL-37, Rudsar
+GIL-38, Langrod
+GIL-39, Rudbar
+GIL-40, Bible
+GIL-41, Astane Ashrafieh
+GIL-42, Siahkol
+GIL-43, Astara
+GIL-44, Masal
+GIL-45, monastery
+GIL-46, Fuman
+GIL-47, Khammam
+GIL-48, Lahijan
+GIL-49, Bandranzli
+YZD-49, Yazd
+HAM-30, Hamadan
+HOR-40, Kish
+HOR-41, Qeshm
+MAR-38, Saveh
+MAR-39, Arak
+MAZ-46, Nowshahr
+MAZ-47, Tankabon
+MAZ-48, Babolsar
+MAZ-49, Babylon
+MAZ-50, Amol
+LOR-25, Khorramabad
+GIL-50, Rasht
+GOL-30, Gorgan
+KES-32, Kermanshah
+KER-70, Rafsanjan
+KER-71, Kerman
+KER-72, Sirjan
+KOR-29, Sanandaj
+QOM-6, Qom
+QAZ-24, Qazvin
+FAR-106, Shiraz
+SIS-37, Zahedan
+SEM-19, Shahrood
+SEM-20, Semnan
+ZAN-20, Zanjan
+ZAN-21, Abhar
+KHO-74, Khorramshahr
+KHO-75, Mahshahr
+KHO-76, Ahvaz
+KHO-77, Dezful
+KHO-78, Abadan
+KHS-22, Bojnoord
+KHR-73, Mashhad
+CHA-39, Shahrekord
+CHA-40, Borujen
+TEH-52, Tehran
+BOO-36, Asaluyeh
+BOO-37, Bushehr
+ILA-8, Ilam
+ESF-21, blessed
+ESF-22, Shahin Shahr
+ESF-23, Najafabad
+ESF-24, Isfahan
+ARD-26, Ardabil
+AZG-43, Urmia
+AZS-59, Malkan
+AZS-60, Maragheh
+AZS-61, wow lion
+AZS-62, Tabriz

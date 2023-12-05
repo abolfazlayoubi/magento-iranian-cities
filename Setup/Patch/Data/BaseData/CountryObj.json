@@ -1,0 +1,250 @@
+{
+  "01": {
+    "ID": 475,
+    "Country": "IR",
+    "RegionName": "آذربایجان شرقی",
+    "RegionCode": "AZS",
+    "mageCode": 1,
+    "en_US": "East Azerbaijan"
+  },
+  "02": {
+    "ID": 476,
+    "Country": "IR",
+    "RegionName": "آذربایجان غربی",
+    "RegionCode": "AZG",
+    "mageCode": 2,
+    "en_US": "West Azerbaijan"
+  },
+  "03": {
+    "ID": 477,
+    "Country": "IR",
+    "RegionName": "اردبیل",
+    "RegionCode": "ARD",
+    "mageCode": 3,
+    "en_US": "Ardabil"
+  },
+  "04": {
+    "ID": 478,
+    "Country": "IR",
+    "RegionName": "اصفهان",
+    "RegionCode": "ESF",
+    "mageCode": 4,
+    "en_US": "Isfahan"
+  },
+  "05": {
+    "ID": 479,
+    "Country": "IR",
+    "RegionName": "البرز",
+    "RegionCode": "ALB",
+    "mageCode": 5,
+    "en_US": "Alborz"
+  },
+  "06": {
+    "ID": 484,
+    "Country": "IR",
+    "RegionName": "ایلام",
+    "RegionCode": "ILA",
+    "mageCode": 6,
+    "en_US": "Ilam"
+  },
+  "07": {
+    "ID": 485,
+    "Country": "IR",
+    "RegionName": "بوشهر",
+    "RegionCode": "BOO",
+    "mageCode": 7,
+    "en_US": "Bushehr"
+  },
+  "08": {
+    "ID": 486,
+    "Country": "IR",
+    "RegionName": "تهران",
+    "RegionCode": "TEH",
+    "mageCode": 8,
+    "en_US": "Tehran"
+  },
+  "09": {
+    "ID": 487,
+    "Country": "IR",
+    "RegionName": "چهارمحال و بختیاری",
+    "RegionCode": "CHA",
+    "mageCode": 9,
+    "en_US": "Chaharmahal and Bakhtiari"
+  },
+  "10": {
+    "ID": 492,
+    "Country": "IR",
+    "RegionName": "خراسان جنوبی",
+    "RegionCode": "KHJ",
+    "mageCode": 10,
+    "en_US": "South Khorasan"
+  },
+  "11": {
+    "ID": 493,
+    "Country": "IR",
+    "RegionName": "خراسان رضوی",
+    "RegionCode": "KHR",
+    "mageCode": 11,
+    "en_US": "Razavi Khorasan"
+  },
+  "12": {
+    "ID": 494,
+    "Country": "IR",
+    "RegionName": "خراسان شمالی",
+    "RegionCode": "KHS",
+    "mageCode": 12,
+    "en_US": "North Khorasan"
+  },
+  "13": {
+    "ID": 495,
+    "Country": "IR",
+    "RegionName": "خوزستان",
+    "RegionCode": "KHO",
+    "mageCode": 13,
+    "en_US": "Khuzestan"
+  },
+  "14": {
+    "ID": 496,
+    "Country": "IR",
+    "RegionName": "زنجان",
+    "RegionCode": "ZAN",
+    "mageCode": 14,
+    "en_US": "Zanjan"
+  },
+  "15": {
+    "ID": 497,
+    "Country": "IR",
+    "RegionName": "سمنان",
+    "RegionCode": "SEM",
+    "mageCode": 15,
+    "en_US": "Semnan"
+  },
+  "16": {
+    "ID": 498,
+    "Country": "IR",
+    "RegionName": "سیستان و بلوچستان",
+    "RegionCode": "SIS",
+    "mageCode": 16,
+    "en_US": "Sistan and Baluchestan"
+  },
+  "17": {
+    "ID": 499,
+    "Country": "IR",
+    "RegionName": "فارس",
+    "RegionCode": "FAR",
+    "mageCode": 17,
+    "en_US": "Fars"
+  },
+  "18": {
+    "ID": 500,
+    "Country": "IR",
+    "RegionName": "قزوین",
+    "RegionCode": "QAZ",
+    "mageCode": 18,
+    "en_US": "Qazvin"
+  },
+  "19": {
+    "ID": 501,
+    "Country": "IR",
+    "RegionName": "قم",
+    "RegionCode": "QOM",
+    "mageCode": 19,
+    "en_US": "Qom"
+  },
+  "20": {
+    "ID": 502,
+    "Country": "IR",
+    "RegionName": "کردستان",
+    "RegionCode": "KOR",
+    "mageCode": 20,
+    "en_US": "Kurdistan"
+  },
+  "21": {
+    "ID": 503,
+    "Country": "IR",
+    "RegionName": "کرمان",
+    "RegionCode": "KER",
+    "mageCode": 21,
+    "en_US": "Kerman"
+  },
+  "22": {
+    "ID": 504,
+    "Country": "IR",
+    "RegionName": "کرمانشاه",
+    "RegionCode": "KES",
+    "mageCode": 22,
+    "en_US": "Kermanshah"
+  },
+  "23": {
+    "ID": 505,
+    "Country": "IR",
+    "RegionName": "کهکیلویه و بویراحمد",
+    "RegionCode": "KOH",
+    "mageCode": 23,
+    "en_US": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  "24": {
+    "ID": 506,
+    "Country": "IR",
+    "RegionName": "گلستان",
+    "RegionCode": "GOL",
+    "mageCode": 24,
+    "en_US": "Golestan"
+  },
+  "25": {
+    "ID": 507,
+    "Country": "IR",
+    "RegionName": "گیلان",
+    "RegionCode": "GIL",
+    "mageCode": 25,
+    "en_US": "Gilan"
+  },
+  "26": {
+    "ID": 508,
+    "Country": "IR",
+    "RegionName": "لرستان",
+    "RegionCode": "LOR",
+    "mageCode": 26,
+    "en_US": "Lorestan"
+  },
+  "27": {
+    "ID": 509,
+    "Country": "IR",
+    "RegionName": "مازندران",
+    "RegionCode": "MAZ",
+    "mageCode": 27,
+    "en_US": "Mazandaran"
+  },
+  "28": {
+    "ID": 510,
+    "Country": "IR",
+    "RegionName": "مرکزی",
+    "RegionCode": "MAR",
+    "mageCode": 28,
+    "en_US": "Markazi"
+  },
+  "29": {
+    "ID": 511,
+    "Country": "IR",
+    "RegionName": "هرمزگان",
+    "RegionCode": "HOR",
+    "mageCode": 29,
+    "en_US": "Hormozgan"
+  },
+  "30": {
+    "ID": 512,
+    "Country": "IR",
+    "RegionName": "همدان",
+    "RegionCode": "HAM",
+    "mageCode": 30,
+    "en_US": "Hamadan"
+  },
+  "31": {
+    "ID": 513,
+    "Country": "IR",
+    "RegionName": "یزد",
+    "RegionCode": "YZD",
+    "mageCode": 31,
+    "en_US": "Yazd"
+  }
+}

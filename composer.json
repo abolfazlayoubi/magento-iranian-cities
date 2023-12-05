@@ -1,0 +1,14 @@
+{
+    "name": "Core/IranianCities",
+    "description": "N/A",
+    "require": {
+        "php": "~7.3.0||~7.4.0",
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    },
+    "version": "1.0.0"
+}
